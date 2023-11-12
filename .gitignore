@@ -1,0 +1,4 @@
+# Ignore generated files
+*.o
+*.d
+final
